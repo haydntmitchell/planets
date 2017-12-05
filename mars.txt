@@ -7,4 +7,8 @@ The dog may have figured out how to get home faster.
 Also, should have brought drugs.
 I think the first entertainment that should be brought to Mars is dirt bikes.
 How long will it take us to adapt to Mars' environment.
+<<<<<<< HEAD
 It will probably take us longer to get there than to adapt to it
+=======
+Would you eat rocks or would you eat flesh
+>>>>>>> 06051a9f01970dcf20d5960f51e1a16ce50200df
